@@ -1,0 +1,5 @@
+SupplierID,MaterialID,Location,ContactName,PhoneNumber
+5001,1001,"Seattle, WA","Green Materials Ltd.","206-555-0199"
+5002,1002,"Portland, OR","Eco Supply Co.","503-555-0133"
+5003,1003,"Austin, TX","Texas Earthworks","512-555-0145"
+5004,1004,"Denver, CO","Mile-High Supplies","303-555-0188"

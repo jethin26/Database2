@@ -1,0 +1,5 @@
+OrderID,CustomerID,DesignID,OrderDate,Status
+1001,201,1,"2023-06-01","Processing"
+1002,204,2,"2023-06-15","Completed"
+1003,207,3,"2023-06-20","Shipped"
+1004,210,4,"2023-06-28","Cancelled"

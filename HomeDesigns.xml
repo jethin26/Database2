@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<HomeDesigns>
+    <Design>
+        <DesignID>1</DesignID>
+        <TemplateName>Haven Earth</TemplateName>
+        <Blueprint>haven_earth_blueprint.blob</Blueprint>
+    </Design>
+    <Design>
+        <DesignID>2</DesignID>
+        <TemplateName>Subterra Luxury</TemplateName>
+        <Blueprint>subterra_luxury_blueprint.blob</Blueprint>
+    </Design>
+    <Design>
+        <DesignID>3</DesignID>
+        <TemplateName>Eco Modern</TemplateName>
+        <Blueprint>eco_modern_blueprint.blob</Blueprint>
+    </Design>
+</HomeDesigns>

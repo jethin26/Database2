@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Materials>
+    <Material>
+        <MaterialID>1001</MaterialID>
+        <MaterialName>Rammed Earth</MaterialName>
+        <InStock>true</InStock>
+        <UnitCost>30.00</UnitCost>
+    </Material>
+    <Material>
+        <MaterialID>1002</MaterialID>
+        <MaterialName>Recycled Glass</MaterialName>
+        <InStock>true</InStock>
+        <UnitCost>15.00</UnitCost>
+    </Material>
+    <Material>
+        <MaterialID>1003</MaterialID>
+        <MaterialName>Solar Panel</MaterialName>
+        <InStock>false</InStock>
+        <UnitCost>200.00</UnitCost>
+    </Material>
+</Materials>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Orders>
+    <Order>
+        <OrderID>1001</OrderID>
+        <CustomerID>201</CustomerID>
+        <DesignID>1</DesignID>
+        <OrderDate>2023-06-01</OrderDate>
+        <Status>Processing</Status>
+    </Order>
+    <Order>
+        <OrderID>1002</OrderID>
+        <CustomerID>204</CustomerID>
+        <DesignID>2</DesignID>
+        <OrderDate>2023-06-15</OrderDate>
+        <Status>Completed</Status>
+    </Order>
+    <Order>
+        <OrderID>1003</OrderID>
+        <CustomerID>207</CustomerID>
+        <DesignID>3</DesignID>
+        <OrderDate>2023-06-20</OrderDate>
+        <Status>Shipped</Status>
+    </Order>
+</Orders>

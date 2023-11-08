@@ -1,0 +1,5 @@
+MaterialID,MaterialName,InStock,UnitCost,StockLevel
+1001,"Rammed Earth",TRUE,30.00,150
+1002,"Recycled Glass",TRUE,15.00,200
+1003,"Solar Panel",FALSE,200.00,0
+1004,"Lithium Battery",TRUE,125.00,50

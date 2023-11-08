@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Customers>
+    <Customer>
+        <CustomerID>201</CustomerID>
+        <Name>Alex Johnson</Name>
+        <Email>alex.j@example.com</Email>
+        <RegisteredOn>2023-05-10</RegisteredOn>
+        <IsActive>true</IsActive>
+    </Customer>
+    <Customer>
+        <CustomerID>204</CustomerID>
+        <Name>Samantha Bloom</Name>
+        <Email>samantha.b@example.com</Email>
+        <RegisteredOn>2023-05-12</RegisteredOn>
+        <IsActive>true</IsActive>
+    </Customer>
+    <Customer>
+        <CustomerID>207</CustomerID>
+        <Name>Raj Patel</Name>
+        <Email>raj.p@example.com</Email>
+        <RegisteredOn>2023-05-15</RegisteredOn>
+        <IsActive>true</IsActive>
+    </Customer>
+</Customers>

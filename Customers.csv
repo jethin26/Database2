@@ -1,0 +1,5 @@
+CustomerID,Name,Email,RegisteredOn,IsActive
+201,"Alex Johnson","alex.j@example.com","2023-05-10",TRUE
+204,"Samantha Bloom","samantha.b@example.com","2023-05-12",TRUE
+207,"Raj Patel","raj.p@example.com","2023-05-15",TRUE
+210,"Liu Wei","liu.w@example.com","2023-05-18",FALSE

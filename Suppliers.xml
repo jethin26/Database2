@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Suppliers>
+    <Supplier>
+        <SupplierID>5001</SupplierID>
+        <MaterialID>1001</MaterialID>
+        <Location>Seattle, WA</Location>
+        <ContactName>Green Materials Ltd.</ContactName>
+        <PhoneNumber>206-555-0199</PhoneNumber>
+    </Supplier>
+    <Supplier>
+        <SupplierID>5002</SupplierID>
+        <MaterialID>1002</MaterialID>
+        <Location>Portland, OR</Location>
+        <ContactName>Eco Supply Co.</ContactName>
+        <PhoneNumber>503-555-0133</PhoneNumber>
+    </Supplier>
+    <Supplier>
+        <SupplierID>5003</SupplierID>
+        <MaterialID>1003</MaterialID>
+        <Location>Austin, TX</Location>
+        <ContactName>Texas Earthworks</ContactName>
+        <PhoneNumber>512-555-0145</PhoneNumber>
+    </Supplier>
+</Suppliers>
